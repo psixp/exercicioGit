@@ -1,0 +1,3 @@
+const subtrair = (numero1, numero2) => numero1 - numero2
+
+module.exports = subtrair
